@@ -1,5 +1,5 @@
 
-# Task 2. Blind SQL injection
+# Blind SQL injection
 
 Purpose of the task:
 1. Learn to find vulnerable code chunks
