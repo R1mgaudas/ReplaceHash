@@ -57,7 +57,7 @@
     <None Include="Docker files\docker-compose.yaml" />
     <None Include="Docker files\Dockerfile-app" />
     <None Include="Docker files\Dockerfile-postgresql" />
-    <None Include="Docker files\README.md" />
+    <None Include="README.md" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
