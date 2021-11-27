@@ -53,7 +53,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Docker files\app-data.sh" />
+    <None Include="Docker files\docker-compose.yaml" />
+    <None Include="Docker files\Dockerfile-app" />
+    <None Include="Docker files\Dockerfile-postgresql" />
+    <None Include="Docker files\README.md" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Docker files\app-data.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
